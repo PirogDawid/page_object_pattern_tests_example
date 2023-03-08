@@ -1,1 +1,1 @@
-# page_object_pattern_tests_example
+# Example of use page object pattern
